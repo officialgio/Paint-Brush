@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="500" src="./images/snakegame.png">
+    <img width="500" src="./images/paintbrush.png">
 </p>
 
 <h1 align="center">Paint Brush</h1>
